@@ -7,7 +7,15 @@ An ESP32-based differential-drive robot that drives via waypoints, performs 360Â
 No cloud, no companion app, no ROS. One `.ino` file, one WiFi network, one browser tab.
 
 
-https://github.com/user-attachments/assets/5c8d1db2-59b9-4cb5-860b-35855253fc79
+
+
+https://github.com/user-attachments/assets/156c11bd-2bc8-4ebe-9245-716b01a7fbd7
+
+
+
+
+
+
 
 
 
